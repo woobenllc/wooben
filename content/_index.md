@@ -2,63 +2,36 @@
 title: Home
 sections:
   - type: heroblock
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: Stay Ahead of the Virus!  Practice Good Digital Hygiene with Wooben
     section_id: hero
     component: hero_block.html
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
-  - type: portfolioblock
-    title: Recent Work
-    section_id: latest-projects
-    component: portfolio_block.html
-    subtitle: An optional subtitle of the section
-    layout_style: mosaic
-    num_projects_displayed: 6
-    view_all_text: View All
-    view_all_url: portfolio/index.html
+    content: A healthy digital lifestyle is one that multiplies the value of the
+      technology we deal with every day.  Wooben IT helps you set up and safely
+      use today's best emerging tools of the trade.
   - type: servicesblock
     title: What We Do
     section_id: services
     component: services_block.html
-    subtitle: An optional subtitle of the section
+    subtitle: Some of the services we have offered our clients
     serviceslist:
-      - title: Service Title
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
-      - title: Service Title
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius. 
-      - title: Service title
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - title: Service title
-        content: >-
-          Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis
-          justo, sit amet condimentum lorem nibh vel quam. Duis consectetur
-          lorem ipsum, non efficitur urna viverra et.
-  - type: testimonialsblock
-    title: Testimonials
-    section_id: testimonials
-    component: testimonials_block.html
-    subtitle: An optional subtitle of the section
-    testimonialslist:
-      - author: John Doe
-        avatar: images/john_doe.jpg
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/jane_roe.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+      - title: Infrastructure Management
+        content: "Ensuring your critical resources are available when you need them is
+          our #1 priority.  We manage your ISP, Wireless, Mobile, and Network
+          infrastructure for you so that you can sleep easy knowing that your
+          systems will stay up."
+      - title: User Support
+        content: Our attentive and patient support provides a one-on-one experience for
+          solving your most pressing issues.  In addition to giving you
+          solutions when you need them, we also provide training.
+      - title: Security
+        content: The growing number of bad actors and means of attack can discourage
+          people from embracing the power of technology.  We will guard your
+          most valuable resources and teach you how to stay safe online.
+      - title: Professional Services
+        content: From Binary to BI, we can offer clarity and consultation on almost any
+          topic within the IT domain.  We maintain partnerships with several
+          technology leaders and have a wide network from which to gather
+          information.
   - type: postsblock
     title: Latest from the Blog
     section_id: latest-posts
@@ -68,11 +41,6 @@ sections:
     actions:
       - label: View Blog
         url: blog/index.html
-  - type: contactblock
-    title: Contact Us
-    section_id: contact
-    component: contact_block.html
-    subtitle: An optional subtitle of the section
 menu:
   main:
     name: Home
